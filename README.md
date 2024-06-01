@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajrdeshwal&label=Profile%20views&color=0e75b6&style=flat" alt="pankajrdeshwal" /> </p>
 
-- 🔭 I’m currently working on ** Azure cloud,Devops and Automation**
+- 🔭 I’m currently working on **Azure cloud,Devops and Automation**
 
 - 🌱 I’m currently learning **Generative AI and platform Engineering**
 
-- 👯 I’m looking to collaborate on **  Digital Transformation, Cloud, SRE, DevOps tools and AI**
+- 👯 I’m looking to collaborate on **Digital Transformation, Cloud, SRE, DevOps tools and AI**
 
 - 📝 I regularly write articles on [https://medium.com/@pankajrdeshwal](https://medium.com/@pankajrdeshwal)
 
