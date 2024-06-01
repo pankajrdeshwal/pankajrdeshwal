@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@pankajrdeshwal](https://medium.com/@pankajrdeshwal)
 
-- 💬 Ask me about **Azure Cloud,Azure DevOps, Automation**
+- 💬 Ask me about **Cloud, DevOps, SRE, Automation & Digital Transformation**
 
 - 📫 How to reach me **pankajrdeshwal@gmail.com**
 
