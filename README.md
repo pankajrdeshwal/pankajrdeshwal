@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on ** Azure cloud,Devops and Automation**
 
-- 🌱 I’m currently learning **Generative AI and platform Engineer**
+- 🌱 I’m currently learning **Generative AI and platform Engineering**
 
 - 👯 I’m looking to collaborate on **  Digital Transformation, Cloud, SRE, DevOps tools and AI**
 
